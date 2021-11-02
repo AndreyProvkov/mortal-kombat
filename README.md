@@ -1,5 +1,4 @@
 # mortal-kombat
-# findYourJob
 ## Using technology
 - HTML
 - CSS
