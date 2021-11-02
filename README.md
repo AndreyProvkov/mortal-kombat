@@ -1,2 +1,7 @@
 # mortal-kombat
-Learn project
+# findYourJob
+## Using technology
+- HTML
+- CSS
+- JS
+- Fancybox JS
